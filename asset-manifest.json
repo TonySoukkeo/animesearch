@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/animesearch/static/css/main.a391c2ae.chunk.css",
-    "main.js": "/animesearch/static/js/main.37c61177.chunk.js",
-    "main.js.map": "/animesearch/static/js/main.37c61177.chunk.js.map",
+    "main.js": "/animesearch/static/js/main.c24d6b7d.chunk.js",
+    "main.js.map": "/animesearch/static/js/main.c24d6b7d.chunk.js.map",
     "runtime~main.js": "/animesearch/static/js/runtime~main.2c1ed8d5.js",
     "runtime~main.js.map": "/animesearch/static/js/runtime~main.2c1ed8d5.js.map",
     "static/css/2.1fd2b905.chunk.css": "/animesearch/static/css/2.1fd2b905.chunk.css",
     "static/js/2.7df46980.chunk.js": "/animesearch/static/js/2.7df46980.chunk.js",
     "static/js/2.7df46980.chunk.js.map": "/animesearch/static/js/2.7df46980.chunk.js.map",
     "index.html": "/animesearch/index.html",
-    "precache-manifest.c960a2a81998b2f302dd64db4d9a2677.js": "/animesearch/precache-manifest.c960a2a81998b2f302dd64db4d9a2677.js",
+    "precache-manifest.d8711e72b9baa6603d46ce5d72b50dd9.js": "/animesearch/precache-manifest.d8711e72b9baa6603d46ce5d72b50dd9.js",
     "service-worker.js": "/animesearch/service-worker.js",
     "static/css/2.1fd2b905.chunk.css.map": "/animesearch/static/css/2.1fd2b905.chunk.css.map",
     "static/css/main.a391c2ae.chunk.css.map": "/animesearch/static/css/main.a391c2ae.chunk.css.map",
