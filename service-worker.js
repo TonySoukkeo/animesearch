@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/animesearch/precache-manifest.63f1935f3f8c3d88a33aceedc9bcf599.js"
+  "/animesearch/precache-manifest.59887b2d4c57c091a8b7dbe791213bd1.js"
 );
 
 self.addEventListener('message', (event) => {
