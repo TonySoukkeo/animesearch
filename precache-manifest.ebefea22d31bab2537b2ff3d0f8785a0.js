@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18738be604f35ce25e02483922a255bc",
+    "revision": "0d1c830cbb8d76c2e36f8a638569f64f",
     "url": "/animesearch/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/animesearch/static/css/2.1fd2b905.chunk.css"
   },
   {
-    "revision": "0b818b1ba294111aa572",
+    "revision": "f73ba9107c2e43de58d1",
     "url": "/animesearch/static/css/main.a391c2ae.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/animesearch/static/js/2.7df46980.chunk.js"
   },
   {
-    "revision": "0b818b1ba294111aa572",
-    "url": "/animesearch/static/js/main.3179a261.chunk.js"
+    "revision": "f73ba9107c2e43de58d1",
+    "url": "/animesearch/static/js/main.61bb7f74.chunk.js"
   },
   {
     "revision": "a0082bb244a4c187d6cd",
